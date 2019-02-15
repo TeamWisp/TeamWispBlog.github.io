@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/about-us.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
 Team Wisp is a student team from [Breda University of Applied Sciences](https://www.buas.nl/) working on a cutting-edge real-time ray-tracing framework. To showcase the power of their framework, they are actively developing a Maya plug-in.
 
