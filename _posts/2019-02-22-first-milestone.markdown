@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Our first milestone"
-date:   2019-02-10
+date:   2019-02-22
 author: Team Wisp
 categories: Devlogs
 cover:  "/assets/posts/2019-02-22-first-milestone/sub_temple_4k.jpg"
