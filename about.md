@@ -4,14 +4,18 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/about-us.gif" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Team Wisp is a student team from [Breda University of Applied Sciences](https://www.buas.nl/) working on a cutting-edge real-time ray-tracing framework. To showcase the power of their framework, they are actively developing a Maya plug-in.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+This plug-in will bring real-time fully-lit rendered scene to the Maya viewport, eliminating the need to check a "slow" path tracer every time an artist would like to see the results of their work. This will result in a better workflow and more time spent iterating on the models instead of waiting for the existing "slow" renderers.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[Wisp](https://github.com/TeamWisp/Procedural-Ray-Tracing) is a real-time ray-tracing library built on top of [Direct3D 12](https://docs.microsoft.com/en-us/windows/desktop/direct3d12/direct3d-12-graphics) and [DXR](https://blogs.msdn.microsoft.com/directx/2018/03/19/announcing-microsoft-directx-raytracing/). All low-level code is abstracted for the end-user, which makes it easier to integrate this framework in your own application without the need for a dedicated graphics programmer.
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+You can find out more about Wisp on the [Wiki page](https://teamwisp.github.io/).
+
+---
+
+- [Wisp Wiki](https://teamwisp.github.io/)
+- [Wisp Framework](https://github.com/TeamWisp/Procedural-Ray-Tracing/)
+- [Wisp Maya plug-in](https://github.com/TeamWisp/Maya-Ray-Traced-Viewport-Plugin/)
