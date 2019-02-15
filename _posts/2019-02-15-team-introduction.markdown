@@ -22,4 +22,6 @@ Eliminating the render times during modelling will allow artists to focus on the
 We're excited to work on this project and hope that this little introduction has sparked your interest as well.
 
 A preview of things to come:
-{% youtube "https://youtu.be/p0fPRikhgvU" %}
+<div class="videoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p0fPRikhgvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
