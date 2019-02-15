@@ -48,13 +48,13 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Devlog
+  - cat: Devlogs
     desc: "Project development status updates."
   
-  - cat: Announcement
+  - cat: Announcements
     desc: "Important information for all our followers."
 
-  - car: Update
+  - car: Updates
     desc: "A brief status update, can be seen as a small \"Devlog\"."
 
 # Social icons and sharing options
