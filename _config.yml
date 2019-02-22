@@ -44,7 +44,7 @@ descriptions:
     desc: "Project development status updates."
 
   - car: Updates
-    desc: "A brief status update, can be seen as a small \"Devlog\"."
+    desc: "A brief status update, can be considered a small \"Devlog\"."
 
 # Social icons and sharing options
 #
