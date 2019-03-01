@@ -20,7 +20,7 @@ About three weeks ago, a new trimester started for all of us. Because we had sho
 - Viewport resizing.
 
 ### Framework
-The team working mainly on the Wisp rendering framework managed to solve a lot of issues and bugs. It's not a lot more stable and easier to use. Additionally, readback buffers have been fixed as well. They now support textures that are not a perfect multiple of 256 wide. Padding is applied automatically when needed.
+The team working mainly on the Wisp rendering framework managed to solve a lot of issues and bugs. It's now a lot more stable and easier to use. Additionally, readback buffers have been fixed as well. They now support textures that are not a perfect multiple of 256 wide. Padding is applied automatically when needed.
 
 Meine has been working a lot on improving the quality of the ray-traced shadows. The rendering framework now supports ray-traced soft shadows! At the end of the week, Darius managed to get a first version of depth of field to work! This feature will be supported by the Maya plug-in soon.
 
